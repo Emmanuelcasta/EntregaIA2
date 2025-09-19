@@ -1,0 +1,49 @@
+columna,categoria,frecuencia
+CarName,peugeot 504,6
+CarName,toyota corolla,6
+CarName,toyota corona,6
+CarName,subaru dl,4
+CarName,mitsubishi outlander,3
+CarName,mazda 626,3
+CarName,honda civic,3
+CarName,mitsubishi mirage g4,3
+CarName,mitsubishi g4,3
+CarName,toyota mark ii,3
+fueltype,gas,185
+fueltype,diesel,20
+aspiration,std,168
+aspiration,turbo,37
+doornumber,four,115
+doornumber,two,90
+carbody,sedan,96
+carbody,hatchback,70
+carbody,wagon,25
+carbody,hardtop,8
+carbody,convertible,6
+drivewheel,fwd,120
+drivewheel,rwd,76
+drivewheel,4wd,9
+enginelocation,front,202
+enginelocation,rear,3
+enginetype,ohc,148
+enginetype,ohcf,15
+enginetype,ohcv,13
+enginetype,dohc,12
+enginetype,l,12
+enginetype,rotor,4
+enginetype,dohcv,1
+cylindernumber,four,159
+cylindernumber,six,24
+cylindernumber,five,11
+cylindernumber,eight,5
+cylindernumber,two,4
+cylindernumber,twelve,1
+cylindernumber,three,1
+fuelsystem,mpfi,94
+fuelsystem,2bbl,66
+fuelsystem,idi,20
+fuelsystem,1bbl,11
+fuelsystem,spdi,9
+fuelsystem,4bbl,3
+fuelsystem,mfi,1
+fuelsystem,spfi,1
